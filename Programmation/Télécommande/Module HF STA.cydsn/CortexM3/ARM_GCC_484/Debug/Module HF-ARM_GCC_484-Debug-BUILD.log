@@ -1,0 +1,11 @@
+--------------- Build Started: 04/02/2015 18:55:52 Project: Module HF, Configuration: ARM GCC 4.8.4 Debug ---------------
+The code generation step is up to date.
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_484\Debug/wifi.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\wifi.c -o .\CortexM3\ARM_GCC_484\Debug\wifi.o
+arm-none-eabi-ar.exe -rs ".\CortexM3\ARM_GCC_484\Debug\Module HF.a" .\CortexM3\ARM_GCC_484\Debug\cyfitter_cfg.o .\CortexM3\ARM_GCC_484\Debug\CyBootAsmGnu.o .\CortexM3\ARM_GCC_484\Debug\CyDmac.o .\CortexM3\ARM_GCC_484\Debug\CyFlash.o .\CortexM3\ARM_GCC_484\Debug\CyLib.o .\CortexM3\ARM_GCC_484\Debug\cyPm.o .\CortexM3\ARM_GCC_484\Debug\CySpc.o .\CortexM3\ARM_GCC_484\Debug\cyutils.o .\CortexM3\ARM_GCC_484\Debug\UART.o .\CortexM3\ARM_GCC_484\Debug\UART_PM.o .\CortexM3\ARM_GCC_484\Debug\UART_INT.o .\CortexM3\ARM_GCC_484\Debug\UART_BOOT.o .\CortexM3\ARM_GCC_484\Debug\LCD.o .\CortexM3\ARM_GCC_484\Debug\LCD_PM.o .\CortexM3\ARM_GCC_484\Debug\UART_IntClock.o .\CortexM3\ARM_GCC_484\Debug\LCD_LCDPort.o .\CortexM3\ARM_GCC_484\Debug\Rx_Int.o
+arm-none-eabi-ar.exe: creating .\CortexM3\ARM_GCC_484\Debug\Module HF.a
+arm-none-eabi-gcc.exe -Wl,--start-group -o ".\CortexM3\ARM_GCC_484\Debug\Module HF.elf" .\CortexM3\ARM_GCC_484\Debug\main.o .\CortexM3\ARM_GCC_484\Debug\wifi.o .\CortexM3\ARM_GCC_484\Debug\cymetadata.o .\CortexM3\ARM_GCC_484\Debug\Cm3Start.o ".\CortexM3\ARM_GCC_484\Debug\Module HF.a" "C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_484\Debug\CyComponentLibrary.a" -mthumb -march=armv7-m -mfix-cortex-m3-ldrd "-Wl,-Map,.\CortexM3\ARM_GCC_484\Debug/Module HF.map" -T .\Generated_Source\PSoC5\cm3gcc.ld -g -specs=nano.specs "-u _printf_float" "" -Wl,--gc-sections -Wl,--end-group
+cyelftool.exe -C "D:\Eih3Cloud\Module HF\Module HF.cydsn\CortexM3\ARM_GCC_484\Debug\Module HF.elf" --flash_size 262144 --flash_row_size 256
+cyelftool.exe -S "D:\Eih3Cloud\Module HF\Module HF.cydsn\CortexM3\ARM_GCC_484\Debug\Module HF.elf"
+Flash used: 4118 of 262144 bytes (1,6 %).
+SRAM used: 2533 of 65536 bytes (3,9 %). Stack: 2048 bytes. Heap: 128 bytes.
+--------------- Build Succeeded: 04/02/2015 18:55:55 ---------------

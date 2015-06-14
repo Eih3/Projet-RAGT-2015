@@ -1,0 +1,5 @@
+E:\Documents\Projet Etuve 2015\Programmation\Sauv\Module STA\2\Module HF STA.cydsn\Module HF STA.cyprj|41ff23fb-dd5d-4ba6-a476-352564411712
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|3518f580-a32d-44c1-add8-de7f9fa067e8
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b899b86d-ec66-4cc5-a2b1-96fc4bbc392c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fe6acb7b-94a0-4659-964d-a547825e1d7b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3d2ab537-0dcb-4a54-a422-a3f79f019d63

@@ -1,0 +1,5 @@
+D:\Eih3Cloud\Module HF\Module HF.cydsn\Module HF.cyprj|e1fcb510-d5cd-4dd7-b3d5-a0cf88c1e701
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2042bf7f-7223-48b9-b2e5-87062c715728
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b5295cce-bf34-4ade-ace4-897134e1359f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e276d262-1320-45a7-b45d-2745a84b91d6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9d06b4cc-c864-4186-a676-f558f414769e
